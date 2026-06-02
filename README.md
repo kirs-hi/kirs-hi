@@ -10,10 +10,13 @@
 
 ---
 
-## 📊 My Contributions
+## 🐍 My Contributions
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/kirs-hi/kirs-hi@output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirs-hi/kirs-hi/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg">
+    <img alt="snake animation" src="https://raw.githubusercontent.com/kirs-hi/kirs-hi/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
@@ -21,9 +24,13 @@
 ## 📈 More Metrics
 
 <div align="center">
-  <img src="github-metrics/base.svg" />
-  <img src="github-metrics/languages.indepth.svg" />
-  <img src="github-metrics/isocalendar.fullyear.svg" />
+  <img src="./github-metrics/base.svg" />
+</div>
+<div align="center">
+  <img src="./github-metrics/languages.indepth.svg" />
+</div>
+<div align="center">
+  <img src="./github-metrics/isocalendar.fullyear.svg" />
 </div>
 
 ---
