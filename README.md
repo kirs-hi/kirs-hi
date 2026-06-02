@@ -47,9 +47,9 @@ Cloud:       Aliyun, GitHub Actions
 
 <div align="center">
 
-![](./github-metrics/base.svg)
-![](./github-metrics/languages.indepth.svg)
-![](./github-metrics/isocalendar.fullyear.svg)
+![](https://raw.githubusercontent.com/kirs-hi/kirs-hi/main/github-metrics/base.svg)
+![](https://raw.githubusercontent.com/kirs-hi/kirs-hi/main/github-metrics/languages.indepth.svg)
+![](https://raw.githubusercontent.com/kirs-hi/kirs-hi/main/github-metrics/isocalendar.fullyear.svg)
 
 </div>
 
