@@ -2,14 +2,15 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 2 * * *"  # 每天UTC 2点运行
-  workflow_dispatch:  # 手动触发
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Base metrics
@@ -26,7 +27,7 @@ jobs:
           filename: github-metrics/languages.indepth.svg
           base: ""
           plugin_languages: yes
-          plugin_languages_indepth: yes
+          plugin_languages_details: bytes-size, percentage
 
       - name: Calendar
         uses: lowlighter/metrics@latest
