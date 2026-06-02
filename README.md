@@ -8,6 +8,8 @@
 - 💻 Building with **Python · TypeScript · Go**
 - 🤝 Open source enthusiast
 
+![](https://komarev.com/ghpvc/?username=kirs-hi&color=blueviolet&style=flat-square)
+
 ---
 
 ## 🐍 My Contributions
