@@ -18,7 +18,7 @@ Focused on **Data Engineering / LLM Agents / AI Applications**.
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,react,nextjs,docker,postgres,redis,kafka,git,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,fastapi,react,nextjs,docker,postgres,redis,kafka,git,linux,codepen" />
 </div>
 
 <div align="center">
