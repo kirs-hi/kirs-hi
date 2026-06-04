@@ -13,7 +13,8 @@ Focused on **AI / Agents / RAG**.
 
 - 🔭 Building **agentic systems** and **RAG pipelines**
 - 🌱 Exploring **tool use, memory, and orchestration**
-- 💬 Ask me about **LLM agents, RAG, or AI workflows** 📧 **bd_zhengxiang@163.com**
+- 💬 Ask me about **LLM agents, RAG, or AI workflows**
+- 📧 **bd_zhengxiang@163.com**
 - 🧠 **WeChat: szx_2869047258**
 
 ## 🛠️ Tech Arsenal
