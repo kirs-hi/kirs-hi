@@ -1,79 +1,32 @@
-# Hi there 👋, I'm kris
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kirs-hi&show_icons=true&theme=tokyonight&hide_border=true" />
-
-- 🌱 Currently exploring **LLM Agent & AI Applications**
-- 💻 Building with **Python · TypeScript · Go**
-- 🤝 Open source enthusiast
-- 📫 How to reach me: **[GitHub](https://github.com/kirs-hi)**
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=kirs-hi&color=blueviolet&style=flat-square)
-
----
-
-## 🛠️ Tech Stack
-
-```text
-Languages:   Python, TypeScript, Go, SQL
-Frameworks:  FastAPI, LangChain, React, Vite
-Tools:       Docker, Git, Elasticsearch, Qdrant
-Cloud:       Aliyun, GitHub Actions
-```
-
----
-
-## 🐍 My Contributions
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kirs-hi/kirs-hi/output/profile-snake-contrib/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+kris!;Data+Engineer+%7C+AI+%26+LLM+Agents;Building+data+pipelines+%26+agents" alt="Typing animation" />
 </div>
 
----
-
-## 📈 GitHub Statistics
-
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=kirs-hi&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kirs-hi&layout=compact&theme=tokyonight)
-
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF" />
 </div>
 
----
+## 🚀 About Me
 
-## 📊 More Metrics
+**Data Warehouse Engineer & AI Enthusiast**  
+Focused on **Data Engineering / LLM Agents / AI Applications**.
+
+- 🔭 Building **data warehouse systems** and **LLM agent applications**
+- 🌱 Exploring **AI agents, RAG pipelines, and data orchestration**
+- 💬 Ask me about **data modeling, ETL, or AI workflows**
+- 📧 **kirs-hi@users.noreply.github.com**
+- 🧠 **WeChat: kris_hi**
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-
-![](https://raw.githubusercontent.com/kirs-hi/kirs-hi/main/github-metrics/base.svg)
-![](https://raw.githubusercontent.com/kirs-hi/kirs-hi/main/github-metrics/languages.indepth.svg)
-![](https://raw.githubusercontent.com/kirs-hi/kirs-hi/main/github-metrics/isocalendar.fullyear.svg)
-
+  <img src="https://skillicons.dev/icons?i=python,go,ts,fastapi,react,nextjs,docker,postgres,redis,kafka,git,linux,vscode" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirs-hi&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
----
-
-## 🔗 Connect with me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kirs--hi-181717?style=for-the-badge&logo=github)](https://github.com/kirs-hi)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirs-hi/kirs-hi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirs-hi/kirs-hi/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/kirs-hi/kirs-hi/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
