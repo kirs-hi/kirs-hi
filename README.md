@@ -8,12 +8,13 @@
 
 ## 🚀 About Me
 
-**Data Warehouse Engineer & AI Enthusiast**  
-Focused on **Data Engineering / LLM Agents / AI Applications**.
+**AI Engineer**  
+Focused on **AI / Agents / RAG**.
 
-- 🔭 Building **data warehouse systems** and **LLM agent applications**
-- 🌱 Exploring **AI agents, RAG pipelines, and data orchestration**
-- 💬 Ask me about **data modeling, ETL, or AI workflows**
+- 🔭 Building **agentic systems** and **RAG pipelines**
+- 🌱 Exploring **tool use, memory, and orchestration**
+- 💬 Ask me about **LLM agents, RAG, or AI workflows** 📧 **bd_zhengxiang@163.com**
+- 🧠 **WeChat: szx_2869047258**
 
 ## 🛠️ Tech Arsenal
 
