@@ -14,8 +14,8 @@ Focused on **Data Engineering / LLM Agents / AI Applications**.
 - 🔭 Building **data warehouse systems** and **LLM agent applications**
 - 🌱 Exploring **AI agents, RAG pipelines, and data orchestration**
 - 💬 Ask me about **data modeling, ETL, or AI workflows**
-- 📧 **kirs-hi@users.noreply.github.com**
-- 🧠 **WeChat: kris_hi**
+- 📧 **bd_zhengxiang@163.com**
+- 🧠 **WeChat: szx_2869047258**
 
 ## 🛠️ Tech Arsenal
 
